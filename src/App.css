@@ -1,0 +1,11 @@
+.MuiFormControlLabel-root {
+    margin-bottom: 0px;
+}
+
+.css-19opgx6-MuiFormControlLabel-root {
+    margin-right: 0px !important;
+}
+
+span[aria-hidden="true"].MuiFormControlLabel-asterisk.css-1ppbxsa-MuiFormControlLabel-asterisk {
+    display: none;
+}
